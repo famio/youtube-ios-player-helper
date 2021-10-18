@@ -19,7 +19,7 @@ the library, add the following line to your Podfile and replace "x.y.z" with the
 ### Swift Package Manager 
 Add the following line to the dependencies in your `Package.swift`:
 ```swift
-.package("https://github.com/youtube/youtube-ios-player-helper.git", from: "1.0.3")
+.package("https://github.com/famio/youtube-ios-player-helper.git", from: "1.0.4")
 ```
 Add `YouTubeiOSPlayerHelper` to your target's dependencies.
 ```swift
